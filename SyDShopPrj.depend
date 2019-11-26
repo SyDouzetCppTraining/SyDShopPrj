@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574774867 source:d:\dev\sydshopprj\src\product.cpp
+	"Product.h"
+
+1574778660 d:\dev\sydshopprj\include\product.h
+	<iostream>
+
+1574778904 source:d:\dev\sydshopprj\main.cpp
+	<iostream>
+	"Computer.h"
+
+1574778959 d:\dev\sydshopprj\include\computer.h
+	<Product.h>
+	<iostream>
+
+1574779105 source:d:\dev\sydshopprj\src\computer.cpp
+	"Computer.h"
+
+1574776204 source:d:\dev\sydshopprj\src\employee.cpp
+	"Employee.h"
+
+1574776693 d:\dev\sydshopprj\include\employee.h
+	<iostream>
+
